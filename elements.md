@@ -1,6 +1,6 @@
 ---
 layout: page
-title: zElements
+title: Elements
 nav-menu: true
 ---
 
