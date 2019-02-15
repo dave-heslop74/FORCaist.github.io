@@ -1,6 +1,6 @@
 ---
 layout: page
-title: arunlocal
+title: Run FORCsensei locally
 nav-menu: true
 ---
 
