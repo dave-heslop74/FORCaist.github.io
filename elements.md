@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elementsx
+title: Elements
 nav-menu: true
 ---
 
