@@ -2,7 +2,7 @@
 layout: page
 title: Run FORCsensei on the cloud
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/clouds.jpg
 nav-menu: true
 ---
 
