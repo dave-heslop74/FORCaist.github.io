@@ -20,4 +20,4 @@ nav-menu: true
 
 This tutorial video will guide you through the use of FORCsensei on the cloud.
 
-You can launch FORCsensei on the cloud by clicking this button:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FORCaist/cloudsensei/master)</p>
+You can launch FORCsensei on the cloud by clicking this button:</p>  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FORCaist/cloudsensei/master)
