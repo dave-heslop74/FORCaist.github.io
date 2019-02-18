@@ -12,8 +12,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Run locally</h1>
 		</header>
 
 <!-- Content -->
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>A full functional version of FORCsensei is available on the mybinder.org free cloud service. This means you can run FORCsensei without installing any packages on your computer, BUT, the calculation will be slow (potentially very slow). If you would like fast performance then we advise you to run FORCsensei locally.
+
+This tutorial video will guide you through the use of FORCsensei on the cloud.
+
+You can launch FORCsensei on the cloud by clicking this button:</p>
