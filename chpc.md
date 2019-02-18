@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Run FORCsensei on an HPC
-description: Lorem ipsum dolor est
 image: assets/images/hpc.jpg
 nav-menu: true
 ---
