@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Running on an HPC Facility</h1>
+			<h1>Running on the cloud</h1>
 		</header>
 
 <!-- Content -->
