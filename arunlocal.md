@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Run FORCsensei locally
+image: assets/images/local.jpg
 nav-menu: true
 ---
 
