@@ -1,7 +1,7 @@
 ---
 title: The FORCaist Project
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Machine learning applied to first-order reversal curves'
 image: assets/images/FORCaist.jpg
 nav-menu: true
 ---
