@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: The FORCaist Project
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/FORCaist.jpg
