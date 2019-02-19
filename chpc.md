@@ -16,6 +16,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>FORCsensei has been built using Dask-based parallelism (https://dask.org). This means you can use FORCsensei on your laptop, but it will also readily scale up for use on clusters with a minimum of fuss.</p> 
+<p>FORCsensei has been built using <a href="https://dask.org" target="_blank">Dask</a>-based parallelism. This means you can use FORCsensei on your laptop, but it will also readily scale up for use on clusters with a minimum of fuss.</p> 
 
 <p> If you would like to run FORCsensei on your own HPC facility, please ask your HPC system administrator to contact us for advice using the email form below. </p>
