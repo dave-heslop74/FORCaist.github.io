@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Blog1 posts
+title: FORCaist Blog posts
 landing-title: 'Blog posts'
 nav-menu: true
 description: null
