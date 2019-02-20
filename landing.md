@@ -1,6 +1,6 @@
 ---
 title: The FORCaist Project
-layout: landing
+layout: page
 description: 'Machine learning applied to first-order reversal curves'
 image: assets/images/FORCaist.jpg
 nav-menu: true
