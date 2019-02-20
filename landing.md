@@ -20,7 +20,7 @@ nav-menu: true
 	
 <h2>The FORCaist Team</h2>
 <ul>
- <li>Andrew P. Roberts (ANU: International project leader)</li>
+<li>Andrew P. Roberts (ANU: International project leader)</li>
 <li>Hirokuni Oda (GSJ: AIST project leader)</li>
 <li>Shotaro Akaho (AIST)</li>
 <li>Richard J. Harrison (University of Cambridge)</li>
@@ -32,7 +32,6 @@ nav-menu: true
 <li>Xiang Zhao (ANU)</li>
 </ul> 
 		
-	</div>
 </section>
 
 
