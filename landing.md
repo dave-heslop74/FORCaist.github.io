@@ -20,9 +20,16 @@ nav-menu: true
 	
 <h2>The FORCaist Team</h2>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+ <li>Andrew P. Roberts (ANU: International project leader)</li>
+<li>Hirokuni Oda (GSJ: AIST project leader)</li>
+<li>Shotaro Akaho (AIST)</li>
+<li>Richard J. Harrison (University of Cambridge)</li>
+<li>Dave Heslop (ANU)</li>
+<li>Pengxiang Hu (ANU)</li>
+<li>Ayako Katayama (GSJ)</li>
+<li>Adrian R. Muxworthy (Imperial College London)</li>
+<li>Tetsuro Sato (GSJ)</li>
+<li>Xiang Zhao (ANU)</li>
 </ul> 
 		
 	</div>
