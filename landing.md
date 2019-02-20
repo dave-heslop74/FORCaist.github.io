@@ -30,9 +30,7 @@ nav-menu: true
 <li>Adrian R. Muxworthy (Imperial College London)</li>
 <li>Tetsuro Sato (GSJ)</li>
 <li>Xiang Zhao (ANU)</li>
-</ul> 
-		
-</section>
+</ul>
 
 
 
