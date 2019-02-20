@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Run FORCsensei in MS Excel
-image: assets/images/excel.jpg
+image: assets/images/excel2.jpg
 nav-menu: True
 ---
 
