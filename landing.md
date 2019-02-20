@@ -13,6 +13,6 @@ nav-menu: true
 <p>With support from the National Institute of Advanced Industrial Science and Technology (AIST), Japan, we have developed a machine learning algorithm for optimized FORC processing. This algorithm is incorporated within the user-friendly software, FORCsensei, which is available from this site. Optimized FORC processing with FORCsensei should assist quantitative interpretation of the magnetization of magnetic materials, including mineral magnetic interpretations in paleoclimatic studies and increasingly important magnetic unmixing of complex natural samples.</p>
 
 <h2>The FORCaist Team</h2>
-<p>test1</p>
-<p>test2</p>
+<p>test1
+test2</p>
 
