@@ -38,10 +38,10 @@ nav-menu: true
 <h2>Running FORCsensei</h2>
 <p>You can start the FORCsensei notebook in a number of ways:</p> 
 
-<p> 1) WINDOWS: Open Anaconda with the Start Menu and select <i><b>Anaconda Prompt</i></b>. Use the <i><b>cd</i></b> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</i></b> </p>
+<p> 1) WINDOWS: Open Anaconda with the Start Menu and select <i><b>Anaconda Prompt</b></i>. Use the <i><b>cd</b></i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
-<p> 2) macOS: click on spotlight, type <i><b>terminal</i></b> to open a terminal window. Use the <i><b>cd</i></b> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
+<p> 2) macOS: click on spotlight, type <i><b>terminal</b></i> to open a terminal window. Use the <i><b>cd</b></i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
-<p> 3) Linux: Launch a terminal from your desktop’s application menu. Use the <i><b>cd</i></b> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
+<p> 3) Linux: Launch a terminal from your desktop’s application menu. Use the <i><b>cd</b></i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
 Once you're up and running you can watch this tutorial video, which will guide you through the use of FORCsensei.
