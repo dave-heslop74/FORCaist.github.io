@@ -29,3 +29,12 @@ nav-menu: true
 <p>The most recent version of the FORCsensei Jupyter notebook is hosted on GitHub. You will need to download it so that it can be run locally.</p> 
 
 <p> Right click <a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>this link</a> and save the FORCsensei notebook into a folder on your computer. Once save the notebook should have the filename; <i>FORCsensei.ipynb</i> </p>
+
+<h2>Running FORCsensei</h2>
+<p>You can start the FORCsensei notebook in a number of ways:</p> 
+
+<p> 1) WINDOWS: Open a new terminal using the <i>cmd</i> command. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i>jupyter notebook</i> </p>
+
+<p> 2) MAC: Click on spotlight, type <i>terminal</i> to open a terminal window. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i>jupyter notebook</i> </p>
+
+Once you're up and running you can watch this tutorial video, which will guide you through the use of FORCsensei.
