@@ -30,3 +30,4 @@ nav-menu: true
 
 <p>You can download the FORCsensei Jupyter notebook by clicking <a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>this link</a>. Save the notebook into a folder on your computer.</p>
 
+<a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>Download link</a>
