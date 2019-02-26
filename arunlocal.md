@@ -28,6 +28,4 @@ nav-menu: true
 <h2>Download the FORCsensei Notebook</h2>
 <p>The most recent version of the FORCsensei Jupyter notebook is hosted on GitHub. You will need to download it so that it can be run locally.</p> 
 
-<p>You can download the FORCsensei Jupyter notebook by clicking <a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>this link</a>. Save the notebook into a folder on your computer.</p>
-
-<a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>Download link</a>
+<p> Right click <a href="https://raw.githubusercontent.com/FORCaist/forcsensei/master/FORCsensei.ipynb" download>this link</a> and save the notebook into a folder on your computer. The notebook should have the extension *.ipynb*</p>
