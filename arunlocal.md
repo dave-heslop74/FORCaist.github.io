@@ -35,6 +35,6 @@ nav-menu: true
 
 <p> 1) WINDOWS: Open a new terminal using the <i>cmd</i> command. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i>jupyter notebook</i> </p>
 
-<p> 2) MAC: Click on spotlight, type <i>terminal</i> to open a terminal window. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <b>jupyter notebook</b> </p>
+<p> 2) MAC: Click on spotlight, type <i>terminal</i> to open a terminal window. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
 Once you're up and running you can watch this tutorial video, which will guide you through the use of FORCsensei.
