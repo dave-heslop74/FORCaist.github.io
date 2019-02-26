@@ -33,8 +33,8 @@ nav-menu: true
 <h2>Running FORCsensei</h2>
 <p>You can start the FORCsensei notebook in a number of ways:</p> 
 
-<p> 1) WINDOWS: Open a new terminal using the <i>cmd</i> command. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i>jupyter notebook</i> </p>
+<p> 1) WINDOWS: Open a new terminal using the <i><b>cmd</i></b> command. Use the <i><b>cd</i></b> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</i></b> </p>
 
-<p> 2) MAC: Click on spotlight, type <i>terminal</i> to open a terminal window. Use the <i>cd</i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
+<p> 2) MAC: Click on spotlight, type <i><b>terminal</i></b> to open a terminal window. Use the <i><b>cd</i></b> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
 Once you're up and running you can watch this tutorial video, which will guide you through the use of FORCsensei.
