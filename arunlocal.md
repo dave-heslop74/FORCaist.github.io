@@ -25,10 +25,10 @@ nav-menu: true
 
 <p> 2) Once the installer is downloaded, you can run it and install Anaconda with a few clicks. During installation you will be asked about PATH options:
 
-Windows - We recommend that you <b>do not</b> add Anaconda to the PATH. 
-macOS & Linux - We recommend that you <b>do</b> add Anaconda to the PATH.
-
-</p>
+<ul>
+<li>Windows - We recommend that you <b>do not</b> add Anaconda to the PATH.</li>
+<li>macOS & Linux - We recommend that you <b>do</b> add Anaconda to the PATH.</li>
+</ul></p>
 
 <h2>Download the FORCsensei Notebook</h2>
 <p>The most recent version of the FORCsensei Jupyter notebook is hosted on GitHub. You will need to download it so that it can be run locally.</p> 
