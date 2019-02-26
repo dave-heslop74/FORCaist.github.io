@@ -23,7 +23,12 @@ nav-menu: true
 
 <p> 1) Visit the <a href="https://www.anaconda.com/distribution/" target="_blank">Anaconda Download site</a>, scroll downwards and select the 64-bit graphical installer for Python 3.7.</p> 
 
-<p> 2) Once the installer is downloaded, you can run it and install Anaconda with a few clicks.</p>
+<p> 2) Once the installer is downloaded, you can run it and install Anaconda with a few clicks. During installation you will be asked about PATH options:
+
+Windows - We recommend that you <b>do not</b> add Anaconda to the PATH. 
+macOS & Linux - We recommend that you <b>do</b> add Anaconda to the PATH.
+
+</p>
 
 <h2>Download the FORCsensei Notebook</h2>
 <p>The most recent version of the FORCsensei Jupyter notebook is hosted on GitHub. You will need to download it so that it can be run locally.</p> 
