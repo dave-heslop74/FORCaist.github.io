@@ -16,7 +16,9 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p> We recommend running FORCsensei locally. You may need to install Anaconda, but the increase in performance will be worth it.</p>
+<p> We recommend running FORCsensei locally. You may need to install Anaconda, but the increase in performance will be worth it. This <a href="https://youtu.be/qJ7x1fgyDAI" target="_blank">tutorial video</a> will guide you through the use of FORCsensei.
+Once</p>
+
 <h2>Install Anaconda</h2>
 <p>Anaconda is a free and open-source distribution of the Python. Anaconda comes with more than 1,400 packages as well as the Conda package and virtual environment manager, called Anaconda Navigator, so it eliminates the need to learn to install each library independently. Anaconda also includes Jupyter Notebooks, which is the foundation for FORCsensei.</p> 
 
@@ -42,5 +44,3 @@ nav-menu: true
 <p> 2) macOS: click on spotlight, type <i><b>terminal</b></i> to open a terminal window. Use the <i><b>cd</b></i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
 
 <p> 3) Linux: Launch a terminal from your desktop’s application menu. Use the <i><b>cd</b></i> command to change to the folder that contains the FORCsensei notebook. Now type <i><b>jupyter notebook</b></i> </p>
-
-Once you're up and running you can watch this tutorial video, which will guide you through the use of FORCsensei.
