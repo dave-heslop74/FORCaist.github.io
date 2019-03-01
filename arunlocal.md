@@ -19,7 +19,7 @@ nav-menu: true
 <p> We recommend running FORCsensei locally. You may need to install Anaconda, but the increase in performance will be worth it. This <a href="https://youtu.be/qJ7x1fgyDAI" target="_blank">tutorial video</a> will guide you through the use of FORCsensei.</p>
 
 <h2>Install Anaconda</h2>
-<p>Anaconda is a free and open-source distribution of the Python. Anaconda comes with more than 1,400 packages as well as the Conda package and virtual environment manager, called Anaconda Navigator, so it eliminates the need to learn to install each library independently. Anaconda also includes Jupyter Notebooks, which is the foundation for FORCsensei.</p> 
+<p>Anaconda is a free and open-source distribution of the Python. Anaconda comes with more than 1,400 packages as well as the Conda package and virtual environment manager, called Anaconda Navigator, so it eliminates the need to install each library independently. Anaconda also includes Jupyter Notebooks, which is the foundation for FORCsensei.</p> 
 
 <p> 1) Visit the <a href="https://www.anaconda.com/distribution/" target="_blank">Anaconda Download site</a>, scroll downwards and select the 64-bit graphical installer for Python 3.7.</p> 
 
