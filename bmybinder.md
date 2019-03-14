@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <p>A full functional version of FORCsensei is available on the mybinder.org free cloud service. This means you can run FORCsensei without installing any packages on your computer, BUT, the calculation will be slow (potentially very slow). If you would like fast performance then we advise you to run FORCsensei locally.
 
-This tutorial video will guide you through the use of FORCsensei on the cloud.
+This <a href="https://youtu.be/hFAtYJLci5I" target="_blank">tutorial video</a> will guide you through the use of FORCsensei on the cloud.
 
 You can launch FORCsensei on the cloud by clicking this button:</p>
 
